@@ -13,7 +13,3 @@
 | 3 | Third-Order Forest | Hardware SCA / Cryptography | Solved |
 
 ---
-
-## Documents
-The full detailed solutions, screenshots, and mathematical write-ups are documented in:
-- 📄 **`ctf_write_up_anousheh.docx`**
