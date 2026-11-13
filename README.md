@@ -10,7 +10,6 @@ Write-ups and solutions for the challenges solved by our team during the **SecLe
 - `mohammed_aeraf_rouf_dar`
 - `wafa_rafiq_qadri`
 - `anousheh_qureshi`
-
 ---
 
 ## 📋 Solved Challenges Overview
